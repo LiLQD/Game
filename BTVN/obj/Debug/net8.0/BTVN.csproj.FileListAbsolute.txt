@@ -1,0 +1,14 @@
+C:\Users\HEC_02\RiderProjects\BTVN\BTVN\bin\Debug\net8.0\BTVN.exe
+C:\Users\HEC_02\RiderProjects\BTVN\BTVN\bin\Debug\net8.0\BTVN.deps.json
+C:\Users\HEC_02\RiderProjects\BTVN\BTVN\bin\Debug\net8.0\BTVN.runtimeconfig.json
+C:\Users\HEC_02\RiderProjects\BTVN\BTVN\bin\Debug\net8.0\BTVN.dll
+C:\Users\HEC_02\RiderProjects\BTVN\BTVN\bin\Debug\net8.0\BTVN.pdb
+C:\Users\HEC_02\RiderProjects\BTVN\BTVN\obj\Debug\net8.0\BTVN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HEC_02\RiderProjects\BTVN\BTVN\obj\Debug\net8.0\BTVN.AssemblyInfoInputs.cache
+C:\Users\HEC_02\RiderProjects\BTVN\BTVN\obj\Debug\net8.0\BTVN.AssemblyInfo.cs
+C:\Users\HEC_02\RiderProjects\BTVN\BTVN\obj\Debug\net8.0\BTVN.csproj.CoreCompileInputs.cache
+C:\Users\HEC_02\RiderProjects\BTVN\BTVN\obj\Debug\net8.0\BTVN.dll
+C:\Users\HEC_02\RiderProjects\BTVN\BTVN\obj\Debug\net8.0\refint\BTVN.dll
+C:\Users\HEC_02\RiderProjects\BTVN\BTVN\obj\Debug\net8.0\BTVN.pdb
+C:\Users\HEC_02\RiderProjects\BTVN\BTVN\obj\Debug\net8.0\BTVN.genruntimeconfig.cache
+C:\Users\HEC_02\RiderProjects\BTVN\BTVN\obj\Debug\net8.0\ref\BTVN.dll
